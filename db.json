@@ -10,12 +10,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
   "jobs":[
   {
      "title":"KFC",
      "position:"cashier",
-     "available: true
+     "available": true
   },
   {
     "title": "Mc Donalds",
