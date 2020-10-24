@@ -13,14 +13,14 @@
   }
   "jobs":[
   {
-     title:'KFC',
-     position:'cashier',
-     available: true
+     "title":"KFC",
+     "position:"cashier",
+     "available: true
   },
   {
-    title: 'Mc Donalds',
-    position: 'cashier',
-    available: true,
+    "title": "Mc Donalds",
+    "position": "cashier",
+    "available": true,
   }
 ]
 }
